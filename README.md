@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Home Security System using Hybrid AlexNet + ResNet**  
-- 🌱 Learning **Machine Learning, Deep Learning & Full-Stack Development**  
-- 💻 I enjoy working with **Python, C++, React, MySQL, and IoT**  
+- 🌱 Learning **Deep Learning & Full-Stack Development**  
+- 💻 I enjoy working with **Python, C++, React and MySQL**  
 - 🚀 Passionate about building real-world AI/ML solutions  
 
 
